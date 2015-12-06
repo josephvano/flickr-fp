@@ -9,4 +9,15 @@ This is taken from the Dr. Boolean book on functional programming:
 
 https://drboolean.gitbooks.io/mostly-adequate-guide/
 
+How to Run
+=================
+
+Requirements:
+* node.js
+
+From the command line run
+    
+    node app.js
+
+
 
