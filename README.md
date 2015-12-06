@@ -15,8 +15,14 @@ How to Run
 Requirements:
 * node.js
 
-From the command line run
-    
+First install the packages
+
+    npm install
+
+By default the application is listening on port 3002. You can change that by modifying the **app.js** file.
+
+To run the website, run the following comand
+
     node app.js
 
 
